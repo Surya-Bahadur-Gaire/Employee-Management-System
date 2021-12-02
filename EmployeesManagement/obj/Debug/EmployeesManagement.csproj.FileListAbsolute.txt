@@ -1,0 +1,16 @@
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\bin\Debug\EmployeesManagement.exe.config
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\bin\Debug\EmployeesManagement.exe
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\bin\Debug\EmployeesManagement.pdb
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.AssemblyReference.cache
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.Properties.Resources.resources
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.splash.resources
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.GenerateResource.cache
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.exe
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.pdb
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.login.resources
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.Employees.resources
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.home.resources
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.view.resources
+D:\Visual Studio Project\EmployeesManagement\EmployeesManagement\obj\Debug\EmployeesManagement.salary.resources
